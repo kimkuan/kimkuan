@@ -40,4 +40,4 @@ I'm Sanghyun Lee, Backend Developer.
 </div>
 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxd46">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxd46">
