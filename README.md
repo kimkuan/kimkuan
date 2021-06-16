@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 Welcome to my github.😊 <br>
 I'm Sanghyun Lee, Backend Developer.
 
+<div style="margin: 0 auto">
 🙋‍♀️Stack💻
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
+</div>
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxd46">
