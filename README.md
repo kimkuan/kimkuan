@@ -33,8 +33,8 @@ I'm Sanghyun Lee, Backend Developer.
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
-    <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
-    <img src="https://img.shields.io/badge/google cloud-4285F4?style=flat-square&logo=google cloud&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/google cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
 
 
   </p>
