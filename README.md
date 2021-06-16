@@ -19,7 +19,7 @@ Welcome to my github.😊 <br>
 I'm Sanghyun Lee, Backend Developer.
 
 <div align='center'>
-  ###🙋‍♀️Stack💻
+  <h5>🙋‍♀️Stack💻</h5>
   <p>
     <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
