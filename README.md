@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Welcome to my github.😊
+I'm Sanghyun Lee, Backend Developer.
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
+
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxd46">
