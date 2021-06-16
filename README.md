@@ -39,8 +39,8 @@ I'm Sanghyun Lee, Backend Developer. <br>
   <br>
   <h3>Me</h3>
   <p> 
-    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=angelList&logoColor=white">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
+    <a href="https://kimkuan.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square&logo=angelList&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:zxd9857@gmail.com"></a>
   </p>
 </div>
 
