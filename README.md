@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my github.😊 <br>
-I'm Sanghyun Lee, Backend Developer.
+I'm Sanghyun Lee, Backend Developer. <br>
 
 <div align='center'>
   <h3>🙋‍♀️Stack💻</h3>
@@ -35,6 +35,12 @@ I'm Sanghyun Lee, Backend Developer.
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
     <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/google cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+  </p>
+  <br>
+  <h3>Me</h3>
+  <p> 
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=angleList&logoColor=white">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </p>
 </div>
 
