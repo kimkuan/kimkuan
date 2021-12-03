@@ -51,3 +51,5 @@ I'm Sanghyun Lee, Backend Developer. <br>
 <div align='center'>
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxd46">
 </div>
+
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimkuan"/></a>
